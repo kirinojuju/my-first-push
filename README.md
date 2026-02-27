@@ -9,6 +9,10 @@
     - Changes the access permissions (read, write, execute) of files and directories.
     
     - Understanding file permissions is the absolute foundation of system administration and cybersecurity. As engineers, we need to ensure that our scripts are executable but also that sensitive configuration files are locked down and protected from unauthorized access. `chmod` gives you direct control over system security at the file level.
+  
+   Answer '-ls'
+   - lists the names of files and folders in your current directory.
+   - It is one of the most fundamental utilities used to list directory contents
 "
 
 "
